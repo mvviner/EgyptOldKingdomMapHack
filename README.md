@@ -17,6 +17,7 @@ City map legend:
 * B - bonus (fertile land)
 * A - animals (lions, crocodiles, hippos, hyenas)
 * S - spoilers (cursed place, sand, thickets, swamp, deep quagmire)
+* T - tribe
 * h - hills
 * r - river
 * number - turns to explore
