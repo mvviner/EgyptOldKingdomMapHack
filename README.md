@@ -4,8 +4,10 @@ Egypt Old Kingdom supplemenary utility
 [Download](https://github.com/mvviner/EgyptOldKingdomMapHack/releases/download/1.0/EgyptOldKingdomMapHack.zip)
 ------
 This utility is made to supplement the walkthrough of Egypt Old Kingdom game. Features:
-1. The utility Shows location of important things on both City and Egypt map (Egypt map is optional).
+1. The utility shows location of important things on both City and Egypt map (Egypt map is optional).
 2. Also, while the utility is run it creates a backup copy of each save file, and if the save file gets deleted, it's automatically restored.
+
+The utility shows your latest save file. Note that on harder difficulty settings the game creates its first save file on the 10th turn.
 
 ------
 ![screenshot](https://github.com/mvviner/EgyptOldKingdomMapHack/blob/master/EgyptOldKingdomMapHack%20screenshot.png)
